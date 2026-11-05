@@ -1,5 +1,6 @@
+import greet
 print("=======================================================")
-print("Welcome to farm management system")
+print(greet())
 print("=======================================================")
 nickName = input("Enter Your Nick Name: ")
 farm_count = 0
